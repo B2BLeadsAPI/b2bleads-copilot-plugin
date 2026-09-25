@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "b2bleads",
+  "description": "Search and enrich B2B business contacts (name, address, phone, website, email) by industry, location, and company size.",
+  "version": "1.0.0",
+  "author": {
+    "name": "B2BLeadsAPI",
+    "email": "corp@b2bleadsapi.com"
+  },
+  "homepage": "https://b2bleadsapi.com/",
+  "repository": "https://github.com/B2BLeadsAPI/b2bleads-copilot-plugin",
+  "license": "MIT",
+  "keywords": ["leads", "b2b", "sales", "prospecting", "business-search"]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "b2bleads",
+  "owner": {
+    "name": "B2BLeadsAPI",
+    "email": "corp@b2bleadsapi.com"
+  },
+  "metadata": {
+    "description": "B2B lead generation tools for GitHub Copilot",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "b2bleads",
+      "description": "Search and enrich business contacts by industry, location, and company size — powered by the B2BLeads API.",
+      "version": "1.0.0",
+      "source": "./plugins/b2bleads"
+    }
+  ]
+}
