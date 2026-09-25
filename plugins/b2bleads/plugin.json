@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "b2bleads",
-  "description": "Search and enrich B2B business contacts (name, address, phone, website, email) by industry, location, and company size.",
-  "version": "1.0.0",
+  "description": "Search and enrich B2B business contacts (name, address, phone, website, email) by industry, location, and company size. Includes a standalone find_email lookup tool.",
+  "version": "1.1.0",
   "author": {
     "name": "B2BLeadsAPI",
     "email": "corp@b2bleadsapi.com"
