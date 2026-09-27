@@ -11,6 +11,14 @@ copilot plugin install b2bleads
 
 The plugin connects to B2BLeads' remote MCP server (`https://api.b2bleadsapi.com/mcp`). On first use you'll be prompted to sign in with a B2BLeads account (or create a free trial) via OAuth — no manual API key needed.
 
+## Tools
+
+- `search_leads` — find business leads by industry, location, and company size
+- `list_industries` — list supported industry values
+- `list_saved_lists` — list this account's saved lead lists
+- `get_saved_list` — get the leads saved in a specific list
+- `find_email` — look up a best-effort contact email for a single business website (Business/Premium plan required)
+
 ## Links
 
 - [b2bleadsapi.com](https://b2bleadsapi.com/)
