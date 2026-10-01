@@ -18,7 +18,7 @@ The plugin connects to B2BLeads' remote MCP server (`https://api.b2bleadsapi.com
 - `list_industries` — list supported industry values
 - `list_saved_lists` — list this account's saved lead lists
 - `get_saved_list` — get the leads saved in a specific list
-- `find_email` — look up a best-effort contact email for a single business website (Business/Premium plan required)
+- `find_email` — look up a best-effort contact email for a single business website (any paid plan, Starter and above)
 
 ## Links
 
